@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ## Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duvanjm&layout=compact&theme=highcontrast&langs_count=10%22)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duvanjm&show_icons=true&theme=radical)
