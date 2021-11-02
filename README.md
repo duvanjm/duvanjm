@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning Python Javascript
+
 📫 How to reach me: duvanjarin@gmail.com
 <!--
 **duvanjm/duvanjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
