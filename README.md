@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Duvan
 
--🌱 I’m currently learning ReactJS, NodeJS
+- 🌱 I’m currently learning ReactJS, NodeJS
 
--📫 How to reach me: duvanjarin@gmail.com
+- 📫 How to reach me: duvanjarin@gmail.com
 
 - 💬 Ask me about HTML, CSS, Bootstrap, Python, Javascript
 <!--
