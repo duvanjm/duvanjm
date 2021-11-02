@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Duvan
 
 🌱 I’m currently learning Python Javascript
 
