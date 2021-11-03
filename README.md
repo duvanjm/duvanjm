@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="text-align:center">
+
 ## Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duvanjm&layout=compact&theme=highcontrast&langs_count=10%22)
