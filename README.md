@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align:center">
-
-## Github Stats
+<center><h3>Github Stats</h3></center>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duvanjm&layout=compact&theme=highcontrast&langs_count=10%22)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=duvanjm&show_icons=true&theme=tokyonight)
-
-</div>
