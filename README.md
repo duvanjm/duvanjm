@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Github Stats</h3>
 
-<h3 align="center">Top Langs</h3>
+<br><h2 align="center">Github Stats</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvanjm&layout=compact&theme=highcontrast&langs_count=10%22" />
+<br><h2 align="center">Top Langs</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvanjm&layout=compact&theme=highcontrast&langs_count=10%22" alt="duvanjm" /></p><br>
 
-<h3 align="center">GitHub stats</h3>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=duvanjm&show_icons=true&theme=tokyonight" />
+<br><h2 align="center">GitHub stats</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=duvanjm&show_icons=true&theme=tokyonight" alt="duvanjm" /></p><br>
