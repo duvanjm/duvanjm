@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: duvanjarin@gmail.com
 
-- 💬 Ask me about HTML, CSS, Bootstrap, Python, Javascript,ReactJS, NodeJS
+- 💬 Ask me about HTML, CSS, Bootstrap, Python, Javascript, ReactJS, NodeJS
 <!--
 **duvanjm/duvanjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
